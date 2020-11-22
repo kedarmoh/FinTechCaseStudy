@@ -9,8 +9,8 @@ Ripple is an upcoming fintech company in the global payments space which uses Bl
 
 ## Why did I choose Ripple:
 
-As a immigrant myself, I have experienced first hand the pain in sending money overseas. I used a service, Remit2India,  to send money back home on a monthly basis. It cost me $25 per transaction and it took over 7 business days for the depsoit to reflect in my parents account in Stata Bank of India. And the exchange rate wasnt the best either. In a separate situation when I was sending money to a friend in Australia using Wells Fargo wire transfer facility, it cost me $30 per transaction for sending $200. 
-As I researched various companies the thing that resonated the best about Ripple was its out of the box thinking of using Blockchain, creating a new cryptocurrency, XRP and also using the consensus mechanism vs the 'proof of work' to certfy the transactions in the XRP Ledger. Not only does that make the settlement time super fast ( 3-5 seconds), but the energy savings are tremendous. I am excited the impact Ripple can have in the global payments space and how it can help accelerate the global economy with its unique platform.
+As an immigrant myself, I have experienced first hand the pain in sending money overseas. I used a service, Remit2India,  to send money back home on a monthly basis. It cost me $25 per transaction and it took over 7 business days for the depsoit to reflect in my parents account in Stata Bank of India. And the exchange rate wasnt the best either. In a separate situation when I was sending money to a friend in Australia using Wells Fargo wire transfer facility, it cost me $30 per transaction for sending $200. 
+As I researched various companies what resonated the most about Ripple was its out of the box thinking of using Blockchain, creating a new cryptocurrency, XRP and also using the consensus mechanism vs the 'proof of work' to certfy the transactions in the XRP Ledger. Not only does that make the settlement time super fast ( 3-5 seconds), but the energy savings are tremendous. I am excited the impact Ripple can have in the global payments space and how it can help accelerate the global economy with its unique platform.
 
 ## Origin and Overview of Ripple: 
 
@@ -30,7 +30,7 @@ It also provides on-demand liquidity as an alternative to funding which enables 
 
 ## Current Landscape, Market size and Competitors:  
 
-Current payment networks are a patchwork of centralized networks, legacy technology and different payment. The current networks are disparate (the technology, rules, systems of record and messaging are different from one network to the other) its slow, (it takes 3-5 days to settle across the numerous intermediaries) its error prone (failure rates are high and data flow between intermediaries is poor) and its costly. This results in a poor customer experience which is driving them to use better fintech products. 
+Current payment networks are a patchwork of centralized networks, legacy technology and different payment workflows. The current networks are disparate (the technology, rules, systems of record and messaging are different from one network to the other) its slow, (it takes 3-5 days to settle across the numerous intermediaries) its error prone (failure rates are high and data flow between intermediaries is poor) and its costly. This results in a poor customer experience which is driving them to use better fintech products. 
 
 The global remittance market size was valued at $682.60 billion in 2018 and is projected to reach _**$930.44 billion**_ by 2026, growing at a CAGR of 3.9% from 2019 to 2026. Remittance refers to transfer of money by foreign migrants to their home countries. It consists of several channels such as banks, money transfer operators, mobile network operators, and others. Furthermore, remittance has increased massively in recent years due to businesses involved with customers & clients working overseas. 
 
@@ -40,7 +40,7 @@ _**Stellar and Transferwise are Ripple’s direct competitors**_ in the global p
 
 ## Core Mission and Business Goals:  
 
-At the heart of Ripple’s mission is to solve the fundamental problem of moving money at the same speed and cost (almost free) as information and remove the hurdle to unlock a variety of scenarios that can enable frictionless global economic activity. In order to succeed at their mission Ripple is focused on tapping into the unlimited potential of Blockchain and digital assets technology. They want to create a universal and inclusive financial system using decentralized financial platforms and user global finance into a new era where money moves like information today, fast and free. 
+At the heart of Ripple’s mission is to solve the fundamental problem of moving money at the same speed and cost (almost free) as information and remove the hurdle to unlock a variety of scenarios that can enable frictionless global economic activity. In order to succeed at their mission Ripple is focused on tapping into the unlimited potential of Blockchain and digital assets technology. They want to create a universal and inclusive financial system using decentralized financial platforms and usher global finance into a new era where money moves like information today, fast and free. 
 
 Ripple’s business is centered around the following key components: 
 
@@ -62,7 +62,7 @@ Ripple’s business is centered around the following key components:
 
 ## Current customers: 
 
-Ripple has secured an impressive partnership with over 160+ financial institutions and finance-related entities globally, including heavyweights such as Barclays, Royal Bank of Canada (RBC) and Bank of America (BOA). With American Express, Standard Chartered and UBS already partnering with Ripple, the real-world value of the platform has seen the XRP token being widely accepted far beyond the cryptocurrency sphere. Other financial institutions like Western Union are trialing the Ripple Protocol, with many others following suit. Ripple has partnered with a major money transaction services firm MoneyGram in order to develop across order payments platform along with a foreign exchange settlement with digital currencies. 
+Ripple has secured an impressive partnership with over 160+ financial institutions and finance-related entities globally, including heavyweights such as Barclays, Royal Bank of Canada (RBC) and Bank of America (BOA). With American Express, Standard Chartered and UBS already partnering with Ripple, the real-world value of the platform has seen the XRP token being widely accepted far beyond the cryptocurrency sphere. Other financial institutions like Western Union are trialing the Ripple Protocol, with many others following suit.  
 
 Here is what some of the customers are saying: 
 
@@ -96,9 +96,9 @@ RippleNet platform is an ecosystem of 3 different subsystems namely xCurrent, xR
 
 1. _**xVia**_ provides _**standardized API based interface**_ to originate payments through their banking partner. They can access across networks globally, send payments on-demand and in real time, attach rich data like invoices and have full visibility into payment status and delivery timing. 
 
-2. _**xRapid**_  _**lowers liquidity costs**_ by with access to on-demand liquidity through digital assets and reduce the need for nostro accounts required to make global payments. They have created their own cryptocurrency, XRP, which serves as a bridge currency to convert to fiat final currency. 
+2. _**xRapid**_  _**lowers liquidity costs**_ by with access to on-demand liquidity through digital assets and reduce the need for nostro accounts required to make global payments. They have created their own cryptocurrency, XRP, which serves as a bridge currency to convert between fiat currencies. 
 
-3. Payments are processed using _**xCurrent**_ provides real-time settlement with bidirectional messaging. It enables efficient processing by _**pre-validation of transactions**_ to avoid failure and enabling rich data attachments (like invoices). It provides payment certainty by providing pre-disclosure of information to avoid failures and provides _**atomic settlement**_ that enables pass/fail processing all intermediaries to avoid settlement risk. 
+3. Payments processed using _**xCurrent**_ provides real-time settlement with bidirectional messaging. It enables efficient processing by _**pre-validation of transactions**_ to avoid failure and enabling rich data attachments (like invoices). It provides payment certainty by providing pre-disclosure of information to avoid failures and provides _**atomic settlement**_ that enables pass/fail processing all intermediaries to avoid settlement risk. 
 
 The XRP ledger which is maintained by independent participants of a global “XRP community of which Ripple is an active member. The consensus mechanism to come to an _**agreement occurs every 3-5 seconds**_. This is much faster and a lot more efficient than the “proof of work” mechanism used by Bitcoin blockchain.   
 
@@ -106,7 +106,7 @@ In summary, Ripple used, standardized APIs, Blockchain and cryptocurrency as the
 
 ## Business Impact: 
 
-The RippleNet has made a huge impact in the global payment's domain with its RippleNet framework. They have been successful in onboarding major banks on their platform and using XRP as an intermediary currency for enable cross border payments.  
+Ripple has made a huge impact in the global payment's domain with its RippleNet framework. They have been successful in onboarding major banks on their platform and using XRP as an intermediary currency for enable cross border payments.  
 
 Their flagship product is RippleNet, a blockchain technology-based platform to enable global payments which provides payout capabilities in 120+ currencies across 55+ countries around the world. The growing network of Ripple includes 12 out of 50 banks globally. Some of their top customers are American Express, MoneyGram, Santander, State Bank of India and Siam Commercial Bank. 
 
@@ -118,11 +118,9 @@ Some of the key highlights of the impact to the global payments processing is as
 
 3. The network has a seven-year track record of stable technology and governance and is used by _**12 of the 50 global banks**_. 
 
-They have definitely made a dent in the global payments space and are one step closer to vision outline earlier.  
+They have definitely made a dent in the global payments space and are one step closer to vision outline earlier. Besides disrupting the global payments market, Ripple partners with NGOs, universities and social entrepreneurs to level the playing field and created economic equality and equal opportunity for all. As of 2018 they have _**donated $150 million**_ towards this goal. 
 
-Besides the impact in disrupting the global payments market, Ripple’s partners with NGOs, universities and social entrepreneurs to level the playing field and created economic equality and equal opportunity for all. As of 2018 they have _**donated $150 million**_ towards this goal. 
-
-Ripple is also committed to reach _**carbon net zero by 2030**_. One of the key differentiators between XRP, Bitcoin and Ethereum is the amount of energy and water it consumes in their respective blockchains 
+Ripple is also committed to reach _**carbon net zero by 2030**_. One of the key differentiators between XRP, Bitcoin and Ethereum is the amount of resources it consumes in their respective blockchains.
 
 Here is a table that compares energy and water consumption by the XRP, Bitcoin and Ethereum blockchains. 
 
@@ -138,7 +136,7 @@ The above table speaks volumes of the impact Blockchain technologies are having 
 
 Ripple has disrupted the global payments space with their technology platform and has the backing of key players in the financial industry.  
 
-In my opinion, some of sectors that would benefit from the frictionless global payment processing are _**tourism and international education and global commerce**_.  Global commerce will get a huge boost Ripple can unlock the tremendous potential of microlending with its high speed and low-cost transaction model. Integrating with major retailers to enable easy payment in local currency to promote global trade. 
+In my opinion, some of sectors that would benefit from the frictionless global payment processing are _**tourism and international education and global commerce**_.  Global commerce will get a huge boost as Ripple can unlock the tremendous potential of microlending with its high speed and low-cost transaction model. The can also integrate with small retailers worldwide to enable easy payment in local currency to promote global trade. 
 
 From a technology application point of view, Ripple can benefit from leveraging _**Machine Learning and Artificial Intelligence (AI)**_ to add _**fraud detection capabilities**_ to its platform. This will extend Ripple platform in its ability to provide an end-to-end solution that brings parity between domestic and international transactions. That is the ultimate goal which aligns with their mission of being an active enabler of the _**Internet of Value era**_. 
 
